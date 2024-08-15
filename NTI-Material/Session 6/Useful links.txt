@@ -1,0 +1,6 @@
+Useful links:
+-https://www.analyticsvidhya.com/blog/2021/05/detecting-and-treating-outliers-treating-the-odd-one-out/
+-https://www.analyticsvidhya.com/blog/2021/06/5-techniques-to-handle-imbalanced-data-for-a-classification-problem/#:~:text=Imbalanced%20data%20refers%20to%20datasets,handling%20by%20using%20an%20example.
+-https://www.analyticsvidhya.com/blog/2020/07/types-of-feature-transformation-and-scaling/
+-https://www.statisticshowto.com/probability-and-statistics/normal-distributions/box-cox-transformation/
+-https://www.kaggle.com/code/aimack/how-to-handle-skewed-distribution

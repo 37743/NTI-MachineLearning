@@ -1,0 +1,16 @@
+linear regression : https://youtu.be/CtsRRUddV2s?si=KfjX8FUNWE9H4zxY
+
+Naive bayes: https://youtu.be/O2L2Uv9pdDA?si=wdJweXPIrBMKQlLz
+
+bayes theorm: https://youtu.be/5NMxiOGL39M?si=9o7jg8GCMKAK7PaU
+
+gaussian naive bayes: https://youtu.be/H3EjCKtlVog?si=cZ9K-CG9OsghSNSi
+
+decision tree: https://youtu.be/zs6yHVtxyv8?si=9C-i2FYIjmxnl2uo
+
+Random forest: https://youtu.be/cIbj0WuK41w?si=fKnjhuIQ7kvhqocQ 
+
+https://www.data-to-viz.com/
+
+https://www.analyticsvidhya.com/
+
